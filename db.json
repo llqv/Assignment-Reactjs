@@ -1,0 +1,161 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": " ZoomX VaporFly NEXT% 'Black Gold'",
+      "price": 1520000,
+      "quantity": 12,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670246855/Product_image/j9zz38n0vw496zvdddpr.webp"
+    },
+    {
+      "id": 3,
+      "name": " ZoomX VaporFly NEXT% 2 'Summit White'",
+      "price": 1520000,
+      "quantity": 15,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670247085/Product_image/azajnwd6xwchiy2vqy0h.webp"
+    },
+    {
+      "id": 4,
+      "name": " AIR JORDAN 1 LOW 'VINTAGE GREY'",
+      "price": 1440000,
+      "quantity": 12,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670247628/Product_image/rtigaaxfhkgco2nxbaws.webp"
+    },
+    {
+      "id": 6,
+      "name": "DUNK LOW DISRUPT 2 'MALACHITE'",
+      "price": 1920000,
+      "quantity": 15,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670247727/Product_image/xklgbnuwycvtco7nv92u.webp"
+    },
+    {
+      "id": 7,
+      "name": " DUNK LOW DISRUPT 2 'PALE IVORY BLACK'",
+      "price": 1920000,
+      "quantity": 15,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670247831/Product_image/c9jmtv78esseno7ofled.webp"
+    },
+    {
+      "id": 8,
+      "name": " 2022 Cheap Travis Scott x Air Jordan 1 Low 'Dark Mocha'",
+      "price": 1610000,
+      "quantity": 15,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670247878/Product_image/kalrhy9id8gll0vhdijz.webp"
+    },
+    {
+      "id": 9,
+      "name": " BLAZER LOW '77 VINTAGE 'WHITE BLACK'",
+      "price": 1200000,
+      "quantity": 15,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670247938/Product_image/xgas9zwotn7lec7czysi.webp"
+    },
+    {
+      "id": 10,
+      "name": " AIR JORDAN 1 LOW SE 'DIAMOND'",
+      "price": 1260000,
+      "quantity": 15,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670247971/Product_image/j5mxwim9osrxnto5dklq.webp"
+    },
+    {
+      "id": 11,
+      "name": "AIR JORDAN 1 LOW SE 'TRUE BLUE'",
+      "price": 1600000,
+      "quantity": 15,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670248006/Product_image/b6plibfehiym37rwmivr.webp"
+    },
+    {
+      "id": 12,
+      "name": "TRAVIS SCOTT X AIR MAX 1 'BAROQUE BROWN'",
+      "price": 2640000,
+      "quantity": 15,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670248069/Product_image/ebqbc2xcajkty1tu3jwo.webp"
+    },
+    {
+      "id": 13,
+      "name": "M2K TEKNO 'ATMOSPHERE GREY'",
+      "price": 1360000,
+      "quantity": 15,
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670248107/Product_image/ctv0egm3kawrfobuahdw.webp"
+    },
+    {
+      "id": 14,
+      "name": "Dunk Low Bordeaux",
+      "price": 2400000,
+      "quantity": 15,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670248153/Product_image/vw82qtykng8m1hlk8zm4.webp"
+    },
+    {
+      "id": 15,
+      "name": "AIR MAX 1 CITY PACK 'LONDON'",
+      "price": 1040000,
+      "quantity": 15,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_1068,w_1500,x_0,y_0/v1670248188/Product_image/y2rgdbjuygu7rjtjwjiv.webp"
+    },
+    {
+      "id": 16,
+      "name": "DUNK LOW 'BLACK PAISLEY'",
+      "price": 2400000,
+      "quantity": 15,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670248236/Product_image/fxhvqp2oh2oie1pxnghc.webp"
+    },
+    {
+      "id": 17,
+      "name": "OFF-WHITE X DUNK LOW 'LOT 49 OF 50'",
+      "price": 2320000,
+      "quantity": 15,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670248287/Product_image/fscczoq2jmu74dllzjgm.webp"
+    },
+    {
+      "id": 18,
+      "name": "OFF-WHITE X DUNK LOW 'LOT 02 OF 50'",
+      "price": 2320000,
+      "quantity": 15,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_534,w_750,x_0,y_0/v1670248323/Product_image/dshohsqkohsc9bbb8mvd.webp"
+    },
+    {
+      "id": 19,
+      "name": "AIR MAX 1 OG 'ANNIVERSARY' 2017 RE-RELEASE",
+      "price": 1040000,
+      "quantity": 15,
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci magnam modi eum, quas rem numquam, natus perspiciatis animi, sit vitae deserunt nemo inventore placeat. Corporis voluptas nulla vel sed cupiditate.",
+      "img": "https://res.cloudinary.com/local12/image/upload/c_crop,h_536,w_750,x_0,y_0/v1670248417/Product_image/qfyxxomgusrftcq7hedy.webp"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$.l5BdhsslNXFigezEDAOe.wVZJnO3O/MH9U8R0rm7N3yrFmU0OcCq",
+      "username": "admin",
+      "role": 1,
+      "id": 1
+    },
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$.l5BdhsslNXFigezEDAOe.wVZJnO3O/MH9U8R0rm7N3yrFmU0OcCq",
+      "username": "admin1",
+      "id": 2
+    },
+    {
+      "email": "admin2@gmail.com",
+      "password": "$2a$10$.HSgAx557frsNoC9y5CLKe3.L6LCDlb8R23aWtDT76Ap5FmpWwIZ6",
+      "username": "admin2",
+      "id": 3
+    }
+  ]
+}
